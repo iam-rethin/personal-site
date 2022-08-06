@@ -26,3 +26,8 @@
 .list-group{
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
+
+.language-logo{
+    height: 300px;
+    width: 300px;
+}
