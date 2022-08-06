@@ -1,0 +1,28 @@
+.active {
+    background: rgb(113, 158, 235) !important;
+    border-style: none;
+}
+
+#navbarSupportedContent {
+    position: relative
+}
+
+.card{
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}    
+
+.card-img-top{
+    height: 200px;
+}
+
+
+
+.background{
+    background-image:url(https://images.freeimages.com/images/large-previews/a3b/website-rays-background-pattern-1637863.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.list-group{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
